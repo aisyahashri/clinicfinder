@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Map Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="meet_our_team">Meet Our Team</string>
+    <string name="visit_us">Visit Us</string>
+    <string name="copyright">© 2025 Clinic Finder. All rights reserved.</string>
+    <string name="syafiq_hazwan">MUHAMMAD SYAFIQ HAZWAN BIN NOR RAMZI</string>
+    <string name="syafiq_no">2023305121</string>
+    <string name="irfan_name">IRFAN NAQIUDDIN BIN MAZDI FAIZAL</string>
+    <string name="irfan_no">2022495926</string>
+    <string name="caa_name">SITI AISYAH BINTI ASHRI</string>
+    <string name="caa_no">2021826476</string>
+    <string name="tasya_name">NURUL AIN NATASYA BINTI OTHMAN</string>
+    <string name="tasya_no">2022610424</string>
+
+</resources>
