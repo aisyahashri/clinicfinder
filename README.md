@@ -15,6 +15,10 @@
 - Program code: CS240
 
 ## **Website Preview**
+
+![image](https://github.com/aisyahashri/clinicfinder/blob/49116f05af86aa95ac3a11d1f2ea856e0159b7cb/clinicfinder.png)
+
+
   
 ## Application Demonstration on Youtube
 
